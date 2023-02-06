@@ -5,7 +5,7 @@ using System.Linq.Expressions;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace LoginSenha.Domain.Interfaces
+namespace Template.Domain.Interfaces
 {
     public interface IRepository<TEntity> : IDisposable where TEntity : class
     {

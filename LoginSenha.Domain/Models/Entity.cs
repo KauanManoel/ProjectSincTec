@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace LoginSenha.Domain.Models
+namespace Template.Domain.Models
 {
     public class Entity
     {

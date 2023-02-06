@@ -1,9 +1,9 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
-using LoginSenha.Domain.Entities;
+using Template.Domain.Entities;
 
-namespace LoginSenha.Domain.Interfaces
+namespace Template.Domain.Interfaces
 {
     public interface IUserRepository: IRepository<User>
     {

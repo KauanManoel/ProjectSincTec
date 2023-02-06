@@ -1,9 +1,9 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
-using LoginSenha.Domain.Models;
+using Template.Domain.Models;
 
-namespace LoginSenha.Domain.Entities
+namespace Template.Domain.Entities
 {
     public class User: Entity
     {
